@@ -1,6 +1,6 @@
 # CFG Counter Strike 2 - CS2
 
-##  Portugues
+## Portugues
 
 Nesta pasta estão contidas as configurações para o novo counter strike 2.
 
@@ -25,7 +25,7 @@ exec mrc
 > [!TIP]
 > Você pode alterar o nome da pasta se quiser, não esqueça de alterar tambem o nome do arquivo mrc.cfg -> seunick.cfg
 
-##  English
+## English
 
 This folder contains the configurations for the new Counter Strike 2.
 
