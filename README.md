@@ -18,7 +18,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 
 Abra seu jogo e digite no console
 
-```
+```bash
 exec mrc
 ```
 
